@@ -1100,12 +1100,14 @@ body, .personal-info-text, .new-container {
     background: linear-gradient(to top, #d0c3f7, #e8d8ff);/* Slightly transparent white */
     border-radius: 30px;
     padding: 20px;
-    color: #000000;
+    color: #0a676f;
     font-family: Cambria, serif;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 .device-description-box p {
     font-size: 24px; /* or any size you prefer */
+    color: #000000;
+    
 }
 .tech-used {
     margin-top: 15px;
@@ -1113,6 +1115,7 @@ body, .personal-info-text, .new-container {
     grid-template-columns: 1fr 1fr; /* Two columns of equal width */
     gap: 30px 40px; /* row-gap, column-gap */
     padding: 10px;
+    color: #000000;
 }
 .tech-used h4{
     margin-top: 15px;
