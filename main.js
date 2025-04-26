@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         paula: {
             laptop: 
             `
-                <h3>Barangay Pinagsanjan Information System</h3>
+                <i><h3>Barangay Pinagsanjan Information System</h3></i>
                 <p><b>About the System:</b><br>Information system integrates very well personnel with software-based platform to manage and distribute data or information. Set of information that is organized and recorded to produce data that may be utilized in the future.
                 <br>One of the local government facilities in Pagsanjan, Laguna, is the barangay hall. This is the venue the barangay technically needed the facilities to be assisted their colleagues and to be more functional in using technology. The Information of the community will surely deliver easily when they are the linkage for the assistance we need. In actuality, barangay authorities play a key role in both the growth of the barangay and the problem-solving of its residents.</p>
                     <div class="tech-used">
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
             `,
             smartphone: `
-                <h3>Idol Clothing Billing System</h3>
+                <i><h3>Idol Clothing Billing System</h3></i>
                 <p><b>About the System:</b><br>a Java-based application designed to streamline and automate the billing process for a clothing business. It allows users to efficiently manage customer transactions, generate accurate bills, and keep track of sales records, helping improve the overall workflow and customer service.</p>
                     <div class="tech-used">
                         <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         cyril: {
             laptop: `
-                <h3>Mobile Shopee (E Commerce)</h3>
+                <i><h3>Mobile Shopee (E Commerce)</h3></i>
                 <p><b>About the System:</b><br>Mobile Shopee is your one-stop eCommerce platform for buying and selling smartphones, specializing in iPhone and Samsung devices. Whether you're looking to purchase the latest models or sell your pre-owned phones</p>
                     <div class="tech-used">
                         <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
             `,
             smartphone: `
-                <h3>Dear Diary, Let’s Spill the Tea (app/web) </h3>
+                <i><h3>Dear Diary, Let’s Spill the Tea (app/web) </h3></i>
                 <p><b>About the System:</b><br>Dear Diary, Let’s Spill the Tea is a comprehensive journaling app designed to offer a structured yet creative space for reflection. It features a journaling page for daily entries, a moodboard for visual expression, a to-do list for task management, and an integrated calendar to organize events, providing users with an efficient and engaging way to document and plan their lives</p>
                     <div class="tech-used">
                         <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         kyla: {
             laptop: `
-            <h3>Mobile Shopee</h3>
+            <i><h3>Mobile Shopee</h3></i>
             <p><b>About the System:</b><br>Mobile Shopee (M-Shopee) is an e-commerce website focused on buying and selling mobile phones. Just like a typical online shopping platform, users can browse products, add items to their cart, and proceed to checkout for a seamless purchasing experience. Other features include user registration and login, product search and filtering, order tracking, and a secure payment system. Sellers can also list their phones for sale, manage their inventory, and communicate with potential buyers.</p>
                 <div class="tech-used">
                     <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
         `,
         smartphone: `
-            <h3>Dear Diary, Let's Spill the Tea!</h3>
+            <i><h3>Dear Diary, Let's Spill the Tea!</h3></i>
             <p><b>About the System:</b><br>Dear Diary, Let’s Spill the Tea is a web and mobile app project designed to make journaling faster, easier, and more convenient for users. The app aims to provide a creative and personal space where users can express their thoughts and keep track of their daily lives. Its features include the ability to write and save journal entries, create a to-do list for better task management, and use a mood board where users can set their mood for the day using emojis. It also includes a calendar of events to help users stay organized and never miss important dates or activities.</p>
                 <div class="tech-used">
                     <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         julia:{
             laptop: `
-            <h3>Mobile Shopee</h3>
+            <i><h3>Mobile Shopee</h3></i>
             <p><b>About the System:</b><br>Mobile Shopee (M-Shopee) is an e-commerce website focused on buying and selling mobile phones. Just like a typical online shopping platform, users can browse products, add items to their cart, and proceed to checkout for a seamless purchasing experience. Other features include user registration and login, product search and filtering, order tracking, and a secure payment system. Sellers can also list their phones for sale, manage their inventory, and communicate with potential buyers.</p>
                 <div class="tech-used">
                     <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
         `,
         smartphone: `
-            <h3>Dear Diary, Let's Spill the Tea!</h3>
+            <i><h3>Dear Diary, Let's Spill the Tea!</h3></i>
             <p><b>About the System:</b><br> is a fun and interactive mobile diary app designed for self-expression, emotional check-ins, and storytelling. With a playful twist, users can "spill the tea" on their daily experiences, moods, secrets, or gossip in a safe, private space. The app features Start Writing, To-do List, Mood board, and Calendar—making it the ultimate digital bestie for journaling your realest thoughts.</p>
                 <div class="tech-used">
                     <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
         melinda:{
             laptop: 
             `
-                <h3>PandanPro</h3>
+                <i><h3>PandanPro</h3></i>
                 <p><b>About the System:</b><br>PandanPro is an e-commerce web system that helps promote pandan-based products from Luisiana, Laguna. It supports local sellers by letting them list products, while buyers can browse, add to wishlist, and place orders. Key features include account-based access, product management, wishlist, and an admin panel. This project aims to boost local pandan product sales and support small businesses in the community.</p>
                     <div class="tech-used">
                         <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
             `,
             smartphone: `
-                <h3>Profile Page</h3>
+                <i><h3>Profile Page</h3></i>
                 <p><b>About the System:</b><br>This project is a basic profile webpage created as a homework activity. It was developed using Visual Studio Code and showcases a student’s academic and personal details. The goal is to demonstrate the ability to structure content using HTML and apply custom styling using an external CSS file.</p>
                     <div class="tech-used">
                         <h4 style="grid-column: span 2;">Technologies Used:</h4>
@@ -227,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
         viezel:{
             laptop: 
             `
-                <h3>Serene Mind</h3>
+                <i><h3>Serene Mind</h3></i>
                 <p><b>About the System:</b><br>Serene Mind is a comprehensive mental health platform built to support individuals facing stress, anxiety, or emotional challenges. Designed as both a website and mobile application, it offers a variety of user-friendly tools and resources—such as guided relaxation, breathing exercises, calming soundscapes, and wellness insights.
 <br>The platform focuses on promoting mindfulness and emotional resilience through accessible self-care activities. Whether you're looking to unwind after a stressful day or build healthier coping habits, Serene Mind provides a safe, supportive space to help you regain balance and peace of mind—anytime, anywhere.</p>
                     <div class="tech-used">
@@ -252,7 +252,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
             `,
             smartphone: `
-                <h3>Code Shooter: Python Edition</h3>
+                <i><h3>Code Shooter: Python Edition</h3></i>
                 <p><b>About the System:</b><br>An interactive typing shooter game that challenges players to type Python keywords to eliminate falling targets. Players control a shooter at the bottom of the screen, aiming to destroy keywords before they reach the ground. With each correct keyword typed, the shooter fires and destroys the incoming word.
 <br>The game is designed to reinforce familiarity with Python keywords while enhancing typing speed and accuracy. As the game advances, the difficulty increases by gradually speeding up the falling keywords. The game ends after three missed inputs, pushing players to stay sharp under pressure.</p>
                     <div class="tech-used">
